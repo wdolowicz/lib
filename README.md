@@ -6,6 +6,7 @@ Daily curated books list
 - [Lessons Learned in Software Testing: A Context-Driven Approach](https://www.amazon.com/dp/0471081124/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0321803027&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=EVH1WB18J4SQSJJWNT45&pf_rd_r=EVH1WB18J4SQSJJWNT45&pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.amazon.com/dp/0321534468/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0321803027&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=EVH1WB18J4SQSJJWNT45&pf_rd_r=EVH1WB18J4SQSJJWNT45&pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224)
 - [Beautiful Testing: Leading Professionals Reveal How They Improve Software (Theory in Practice)](https://www.amazon.com/gp/product/0596159811/ref=s9_acsd_simh_bw_c_x_10_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-10&pf_rd_r=RZ494HAD1VJYEZGFTR62&pf_rd_t=101&pf_rd_p=a48686f2-3e3e-43da-91b7-756c8330420e&pf_rd_i=283155)
+- [dupa](google.pl)
 
 ### Security:
 - [The Mobile Application Hacker's Handbook](https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500)
